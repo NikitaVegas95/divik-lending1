@@ -158,7 +158,7 @@
 
 @media (max-width: 600px) {
   .header-active::after {
-    height: 390px;
+    height: 415px;
     background-image: none;
   }
 }
@@ -181,6 +181,7 @@
     font-size: 17px;
   }
   .advantages-text {
+    max-width: 300px;
     font-size: 12px;
   }
   .advantages-title_size {
