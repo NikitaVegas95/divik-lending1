@@ -230,7 +230,7 @@ textarea{
 
 .hero-btn {
   padding: 25px;
-  max-width: 250px;
+  max-width: 300px;
   min-height: 70px;
   background: #6D31EE;
   border-radius: 40px;
@@ -471,6 +471,11 @@ textarea{
   font-size: 20px;
   line-height: 200%;
   color: var(--white-color);
+}
+
+.question-text_margin {
+  display: block;
+  margin-bottom: 30px;
 }
 
 .question-form {
