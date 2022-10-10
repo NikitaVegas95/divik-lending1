@@ -1,0 +1,8 @@
+User-agent: Yandex
+User-agent: Google
+
+Allow: /*.css # стили
+Allow: /*.js # скрипты
+Disallow /yandex_a1453bf873de5acd.html
+Disallow /gfhjkm.txt
+Sitemap: http://дивик.рф/5232613_2.xml
